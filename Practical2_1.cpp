@@ -9,7 +9,6 @@ or material requirements for edges. To make this system functional, there should
 or update the dimensions of any rectangle as required. The system should be capable of creating and 
 managing multiple rectangle records, performing calculations for each, and displaying the results 
 clearly for analysis and planning purposes. */
-    
 #include<iostream>
 using namespace std;
 
