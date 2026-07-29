@@ -59,5 +59,4 @@ P_2.Total_Price(2);
 
 cout<<endl<<"Name : Vadsola Kishan"<<endl;
 cout<<"Id : 24CE134";
-
 }
