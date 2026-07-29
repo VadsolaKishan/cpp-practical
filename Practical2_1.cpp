@@ -51,5 +51,4 @@ cout<<"Area R3 : "<<r3.Area()<<" "<<"Perimeter R3 : "<<r3.Perimeter()<<endl;
 
 cout<<endl<<"Name : Vadsola Kishan"<<endl;
 cout<<"Id : 24CE134";
-
 }
