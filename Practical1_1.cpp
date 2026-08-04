@@ -10,6 +10,7 @@ The system must be designed using Object-Oriented Programming principles, focusi
 creating a simple and efficient solution to manage the accounts effectively. The system should 
 ensure that all account details are secure and accessible only through authorized methods. */
 
+
 #include<iostream>
 using namespace std;
 
