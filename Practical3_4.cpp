@@ -85,6 +85,7 @@ int main()
       cin>>Char_Collection[i];
    }
 
+    
    Find_Max(Char_Collection,n);
    Reverse_Vector(Char_Collection,n);
 
