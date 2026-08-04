@@ -39,6 +39,7 @@ class Product
     
 };
 
+
 int main() 
 {
 Product P_1(1,"Laptop",2,50000);
