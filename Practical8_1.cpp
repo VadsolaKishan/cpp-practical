@@ -37,6 +37,7 @@ void reverseManually(vector<int>& seq) {
     }
 }
 
+
 int main() {
     int n;
 
