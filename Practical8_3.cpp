@@ -35,6 +35,7 @@ int main() {
         transactionIDs.insert(id);  // Duplicates will be ignored automatically
     }
 
+    
     // Display unique and sorted transaction IDs
     cout << "\nUnique and Sorted Transaction IDs:\n";
     for (set<int>::iterator it = transactionIDs.begin(); it != transactionIDs.end(); ++it) {
