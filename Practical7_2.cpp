@@ -107,5 +107,6 @@ int main() {
     delete[] lines;
     file.close();
 
+    
     return 0;
 }
