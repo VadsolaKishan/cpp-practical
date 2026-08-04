@@ -35,7 +35,6 @@ class Rectangle
     }
 };
 
-
 int main()
 {
 Rectangle r1,r2,r3;
