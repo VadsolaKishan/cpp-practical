@@ -35,6 +35,7 @@ void countWordFrequency(const string& input) {
         wordCount[word]++;
     }
 
+    
     // Display the results
     cout << "\nWord Frequency Distribution:\n";
     for (const auto& pair : wordCount) {
