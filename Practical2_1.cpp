@@ -12,6 +12,7 @@ clearly for analysis and planning purposes. */
 #include<iostream>
 using namespace std;
 
+
 class Rectangle
 {
     int Length;
