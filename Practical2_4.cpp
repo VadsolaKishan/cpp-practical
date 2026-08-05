@@ -14,7 +14,8 @@ simultaneously. They planned to design an array of inventory items and simulate 
 as adding stock, processing sales transactions, and displaying the current inventory details. Handling 
 edge cases, such as attempting to sell more items than available in stock, became a critical part of the 
 implementation to ensure reliability. */ 
-    
+
+
 #include<iostream>
 using namespace std;
 
