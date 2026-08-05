@@ -15,7 +15,8 @@ proposed methods. They tested various scenarios, such as depositing and withdraw
 amounts, handling edge cases like insufficient funds, and verifying that the account summaries were 
 accurate. This iterative approach helped them refine the system and ensure its readiness for 
 deployment. */
-    
+
+
 #include<iostream>
 using namespace std;
 
