@@ -12,6 +12,7 @@ In practice, the system allowed for the creation of collections for various data
 floating-point numbers, and characters. The operations on these collections included determining the 
 maximum value, reversing the order of elements, and printing the collection contents. */
 
+
 #include<iostream>
 #include<vector>
 using namespace std;
