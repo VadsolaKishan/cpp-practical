@@ -16,7 +16,6 @@ to include a feature to display comprehensive loan details, including the calcul
 friendly format. This functionality was intended to aid both customers and bank staff in managing 
 loan-related queries effectively. */
 
-
 #include<iostream>
 #include<math.h>
 using namespace std;
