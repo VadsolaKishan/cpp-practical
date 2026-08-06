@@ -15,7 +15,6 @@ as adding stock, processing sales transactions, and displaying the current inven
 edge cases, such as attempting to sell more items than available in stock, became a critical part of the 
 implementation to ensure reliability. */ 
 
-
 #include<iostream>
 using namespace std;
 
