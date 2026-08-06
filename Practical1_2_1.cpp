@@ -16,7 +16,6 @@ The system's design and implementation should consider these requirements and pr
 effective solution (either procedural approach or an object-oriented approach) to the store's 
 inventory management problems. */
 
-
 #include <iostream>
 using namespace std;
 
