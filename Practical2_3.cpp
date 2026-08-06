@@ -16,7 +16,6 @@ amounts, handling edge cases like insufficient funds, and verifying that the acc
 accurate. This iterative approach helped them refine the system and ensure its readiness for 
 deployment. */
 
-
 #include<iostream>
 using namespace std;
 
