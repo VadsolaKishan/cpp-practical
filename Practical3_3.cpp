@@ -12,7 +12,7 @@ added to the system dynamically. The management team planned for future scalabil
 performance improvements by considering more efficient storage and retrieval methods after the 
 initial system was built, ensuring that the bank could easily accommodate more accounts and 
 transactions as the customer base grew. */
-    
+
 #include<iostream>
 #include<vector>
 using namespace std;
