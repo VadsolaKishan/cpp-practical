@@ -17,7 +17,6 @@ modifications, such as sorting by marks or filtering based on grades, before pre
 formatted report.
 */
 
-
 #include <iostream>
 #include <fstream>
 #include <iomanip>
