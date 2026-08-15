@@ -10,7 +10,7 @@ focusing on flexibility and dynamic handling, while the other used a more static
 implementing and comparing these methods, the engineers gained insights into the benefits of using 
 efficient techniques for organizing and processing geometric data, enhancing their problem-solving 
 capabilities. */
-    
+
 #include<iostream>
 #include<vector>
 using namespace std;
