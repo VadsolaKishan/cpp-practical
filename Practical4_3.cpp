@@ -10,7 +10,7 @@ its fuel type and brand, was incorporated into the system. To simulate a real-wo
 service queue, multiple cars were organized and processed sequentially using a structured approach. 
 This not only streamlined the handling of cars but also provided an opportunity to compare different 
 methods of managing the collection and processing of vehicle data. */
-    
+
 #include<iostream>
 #include<vector>
 using namespace std;
