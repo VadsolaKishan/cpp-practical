@@ -11,7 +11,7 @@ functionality to display details at every level was included to provide clear in
 organization's structure. Two approaches were explored for managing multiple managers: one relied 
 on an efficient method for retrieval and organization based on employee identifiers, while the other 
 used a straightforward and static method for storage. */
-    
+
 #include<iostream>
 #include<vector>
 using namespace std;
