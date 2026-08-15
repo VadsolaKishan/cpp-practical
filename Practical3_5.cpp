@@ -16,7 +16,7 @@ The system was required to handle large numbers efficiently by leveraging mathem
 rather than explicitly constructing large concatenated strings. This case study called for implementing 
 a recursive solution to calculate the super digit, supported by a mathematical approach to optimize 
 the handling of repeated sums. */
-    
+
 #include<iostream>
 using namespace std;
 
