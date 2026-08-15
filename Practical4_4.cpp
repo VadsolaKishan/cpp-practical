@@ -11,7 +11,7 @@ also accounted for the need to track and manage transaction history, enabling op
 undoing the last transaction. This was achieved by simulating a mechanism to store a sequence of 
 transactions for each account type, providing insight into different ways of managing and organizing 
 data. */
-    
+
 #include <iostream>
 #include <stack>
 using namespace std;
