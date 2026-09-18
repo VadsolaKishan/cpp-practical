@@ -13,7 +13,7 @@ deleting an object through a base class pointer. This guarantees proper dealloca
 allocated resources, preventing memory leaks. 
 Since the project requires manual memory management, the team uses raw pointers and the new and 
 delete operators to allocate and release resources. */
- 
+
 #include <iostream>
 using namespace std;
 
