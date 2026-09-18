@@ -13,7 +13,7 @@ In one approach, a dynamically allocated array is used to store words, with addi
 occurrences efficiently. The array expands as needed, ensuring that new words can be 
 accommodated. The frequency counting is implemented manually by searching for existing words in 
 the array and updating counts accordingly. */
-    
+
 #include <iostream>
 #include <vector>
 #include <cstring>
